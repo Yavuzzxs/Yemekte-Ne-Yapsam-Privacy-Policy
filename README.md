@@ -27,5 +27,4 @@ Yemekte Ne Yapsam uygulamasının hak ve yükümlülükleri
 Yemekte Ne Yapsam kullanım koşullarını önceden bildirmeksizin değiştirebilir. bu nedenle kullanım koşullarını belirli aralıklarla incelemeniz öneririz.  Yemekte Ne Yapsam uygulamasını  Yemekte Ne Yapsam uygulamasını oluşturan tüm unsurları önceden haber vermeksizin değiştirme, sona erdirme, yenilerini ekleme, ücretlendirme haklarını saklı tutmaktadır.  Yemekte Ne Yapsam uygulaması gerekli gördüğü takdirde belli kişilerin, kurumların, ip numaralarının veya ip bloklarının  Yemekte Ne Yapsam uygulamasını erişimini geçici veya kalıcı olarak durdurma hakkını saklı tutar.
 
 Uygulamanın virüs ve sair zararlı içerik barındırmaması için özen sarf edilmekle birlikte, gelişen teknoloji, teknik sorun ve diğer nedenlerle telefonunuza veya tabletinize virüs, trojan gibi zararlı yazılımların bulaşması ihtimali bulunmaktadır. Bu gibi risklere karşı antivirüs programları ve benzeri uygulamalar kullanmanızı tavsiye ederiz. Uygulamamızı yüklemeniz dolayısıyla karşılaşabileceğiniz yazılımsal ve donanımsal dahil olmak üzere hiçbir zarara ilişkin sorumluluk kabul etmemekteyiz. Bu nedenlerle uygulamamızdan talepte bulunmayacağınızı peşinen kabul etmektesiniz.
-
-
+Verilerinizin Şirketimiz nezdinde hassasiyetle korunduğunu belirtir; bize duyduğunuz güven için teşekkür ederiz.
